@@ -1,3 +1,4 @@
+#Program to find second largest element
 number_list = []
 number_count = int(input("Enter number of item in the list"))
 
